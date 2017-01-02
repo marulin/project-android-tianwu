@@ -19,6 +19,6 @@ Java基础。
 
 腾讯应用宝：http://sj.qq.com/myapp/detail.htm?apkName=xianglesong.com.twandroid
 
-360：http://zhushou.360.cn/detail/index/soft_id/3232306
+360手机助手：http://zhushou.360.cn/detail/index/soft_id/3232306
 
 ### 免费Q群：557373922。
