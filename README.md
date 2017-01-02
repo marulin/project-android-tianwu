@@ -14,4 +14,9 @@ Java基础。
 ## 课程内容
 视频讲解，源码分享，设计说明。微信，友盟，极光推送的使用，控件的自定义开发，后端整合，扫一扫，二维码等的识别使用。
 
+## 下载体验
+百度手机助手：http://shouji.baidu.com/software/8951029.html
+腾讯应用宝：http://sj.qq.com/myapp/detail.htm?apkName=xianglesong.com.twandroid
+360:http://zhushou.360.cn/detail/index/soft_id/3232306
+
 ### 免费Q群：557373922。
